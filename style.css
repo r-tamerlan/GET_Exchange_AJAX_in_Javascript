@@ -1,0 +1,19 @@
+body {
+    background-image: url(img/prism.png);
+}
+
+#body {
+    width: 170px;
+    height: 150px;
+    margin: 50px auto;
+}
+
+h5 {
+    color: white;
+    font: bold 14px tahoma;
+}
+
+h6 {
+    color: white;
+    font: bold 12px tahoma;
+}
